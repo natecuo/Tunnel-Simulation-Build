@@ -1,4 +1,4 @@
- # Important Project Details
+ # More Project Details
  ## Desktop Wind Tunnel Simulation Creation & Physical Model Construction
  ### Notes
  - Tunnel size will depend on the size fan bought and used within the tunnel, still should be relatively small; easy to rescale in SolidWorks

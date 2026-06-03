@@ -12,7 +12,7 @@ Traditional aerodynamic testing requires access to large, expensive wind tunnels
 ### Our Solution
 We are developing a desktop wind tunnel system that:
 - Provides a cost-effective alternative to industrial wind tunnels
-- Enables rapid prototyping and iterative design validation
+- Enables rapid prototyping and iterative design validation 
 - Allows engineers to perform qualitative aerodynamic analysis on CAD-designed models
 - Bridges the gap between simulation and real-world experimental validation
 
@@ -27,6 +27,7 @@ We are developing a desktop wind tunnel system that:
    - Conduct Computational Fluid Dynamics (CFD) simulations to validate design assumptions
    - Predict airflow patterns and velocity profiles
    - Optimize geometry for performance and efficiency
+   - Account for potential stresses and forces on the model during potential testing
 
 3. **Construction Phase**
    - Build a functional, scaled physical prototype
@@ -40,7 +41,7 @@ We are developing a desktop wind tunnel system that:
 
 ## Target Applications
 
-- **Aerospace & Automotive**: Testing aerodynamic designs for vehicles, aircraft components, and drones
+- **Aerospace & Automotive**: Testing scaled aerodynamic designs for vehicles, aircraft components, and drones
 - **Product Design**: Optimizing shapes for drag reduction and performance
 - **Educational Research**: Teaching aerodynamics principles with hands-on experimentation
 - **Rapid Prototyping**: Quick iteration cycles for design validation before expensive testing

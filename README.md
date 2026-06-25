@@ -14,4 +14,5 @@
 - Tunnel flanges created, however I have considered just making the wind tunnel glued together. Still looking into how to bolt together flanged connections if the wind tunnel itself is made of PLA. Intuition tells me that bolts wont work on a wind tunnel this small, especially if the material is PLA.
 - Rod for putting in aerodynamic models was created and is just a structural component of the test section rathe rthan an additional part. Rod goeas about halfway into the width of the tunnel. Need to create a cap for it so that model wont roll off during tunnel testing. Worried about rod breaking during testing but it should be durable enough and the wind speed shouldnt be high enough to have an immense worry
 - Starting to create simple models for the wind tunnel that have a hole through them so they can rest on the rod. Simple shapes such as a cube, a cyclinder, maybe a imported airfil, etc.
-- 
+- Created a gear model and tested it inside wind tunnel. Still need to make more models
+- MUST SCALE ENTIRE ASSEMBLY, the wind tunnel right now is only mere inches ( test section in 3.33x3.33 inches)

@@ -16,4 +16,4 @@
 - Starting to create simple models for the wind tunnel that have a hole through them so they can rest on the rod. Simple shapes such as a cube, a cyclinder, maybe a imported airfil, etc.
 - Created a gear model and tested it inside wind tunnel. Still need to make more models
 - MUST SCALE ENTIRE ASSEMBLY; the wind tunnel right now is only a few inches ( test section in 3.33x3.33 inches)
-- Still need to figure out method to include smoke flow simulation
+- Still need to figure out method to include smoke or mist flow simulation for actual model
